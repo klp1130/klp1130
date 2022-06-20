@@ -1,5 +1,4 @@
-# Hello, World! 
-### I'm Keenan ✋🏽
+# Hello, I'm Keenan ✋🏽
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
