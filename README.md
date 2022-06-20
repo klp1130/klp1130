@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Keenan ✋🏽 >
+<h1 align="center">Hi there, I'm Keenan ✋🏽 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
