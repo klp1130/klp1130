@@ -1,5 +1,5 @@
 # Hello, I'm Keenan ✋🏽
->I am a full stack developer and designer. I love building things that work great and look amazing. I enjoy using my obsessive attention to detail, orderliness and problem-solving abilities to make things that help people. 
+>I am a full stack developer and design engineer.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
